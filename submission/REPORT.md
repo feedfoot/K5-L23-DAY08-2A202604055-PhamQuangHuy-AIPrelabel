@@ -74,4 +74,14 @@ Nếu Rework / Hold, việc cần làm tiếp: <<>>
 - Máy / GPU / CVAT dùng; vướng mắc cài đặt: <<>>
 - Dùng cache `data/cache/` thay vì tự chạy? <<không / có, vì ...>>
 - Lỗi / bug script đã gặp (nếu có): <<>>
+- **Ca không chắc quy tắc ở gold (box tick `can_review`)**: 4/72 box trong `submission/labels/gold_manual.json` (số liệu từ file export CVAT). Cột "Lý do" do tôi tự điền theo guideline v1.0.
+
+  | Ảnh | Box (id CVAT) | Lớp | Vị trí `[x, y, w, h]` (px) | Lý do không chắc quy tắc |
+  |---|---|---|---|---|
+  | img_001 | #13 | bicycle | [794, 404, 14, 20] | Vật nhỏ, ảnh mờ nên không nhận diện rõ (nhìn không chắc là xe đạp). |
+  | img_001 | #17 | person | [706, 390, 14, 36] | Ảnh mờ, không nhận diện rõ vật (nhìn không chắc là người). |
+  | img_001 | #27 | motorbike | [523, 406, 19, 31] | Ảnh mờ, không nhận diện rõ vật (nhìn không chắc là xe máy). |
+  | img_020 | #54 | truck | [948, 135, 76, 92] | Dựa vào ảnh không xác định được là `bus` hay `truck`; tôi chọn `truck` và tick `can_review` (guideline mục 4.3). |
+
+  `validate_labels.py` cũng cảnh báo hai box cao dưới hoặc bằng 20 px: img_001 #13 (cao 20.0 px) và img_036 #59 motorbike (cao 19.2 px, không tick `can_review`).
 - Một điều bạn làm khác lần sau: <<>>
