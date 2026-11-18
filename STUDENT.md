@@ -5,7 +5,7 @@
 - Lớp: L2
 - Tài khoản GitHub: feedfoot
 - Repo bài nộp (URL): https://github.com/feedfoot/K5-L23-DAY08-2A202604055-PhamQuangHuy-AIPrelabel
-- Commit chốt bài (hash): 0a3eaa8
+- Commit chốt bài (hash): 70b8bfa
 - Máy: Windows 11 Pro, không có GPU (chạy CPU, PyTorch 2.15.0+cpu trong `.venv`)
 - CVAT (Docker): v2.81.0
 
