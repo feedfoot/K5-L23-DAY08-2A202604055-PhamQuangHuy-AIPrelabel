@@ -1,0 +1,9 @@
+﻿image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,claude_ai,Vòng 2 (sau Rework): đã thêm người áo caro và xe đạp
+img_006.jpg,,khong,claude_ai,Vòng 2 (sau Rework): đã xoá box thừa #71 cũ
+img_008.jpg,,khong,claude_ai,Vòng 2 (sau Rework): đã xoá box trùng #83 cũ
+img_014.jpg,,khong,claude_ai,Vòng 2 (sau Rework): không đổi
+img_017.jpg,,khong,claude_ai,Vòng 2 (sau Rework): không đổi
+img_018.jpg,,khong,claude_ai,Vòng 2 (sau Rework): đã thêm 14 box và 1 ignore_region cho cụm người/xe cao < 20 px gần cửa hàng; xe máy nhìn từ trên cao cao < 20 px không vẽ (mục 4.1.6)
+img_021.jpg,,khong,claude_ai,"Vòng 2 (sau Rework): đã thêm 2 người lái; người lái mũ đen phía sau chỉ thấy mũ, < 20% nên không gán"
+img_035.jpg,,khong,claude_ai,"Vòng 2 (sau Rework): đã thêm 2 người ngồi và 1 xe tay ga; ca biên: người áo đỏ phía sau chỉ thấy đầu và vai, tôi ước < 20% nên không gán (câu 4 mục 6 chưa chốt)"

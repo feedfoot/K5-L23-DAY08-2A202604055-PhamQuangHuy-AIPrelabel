@@ -1,0 +1,21 @@
+﻿image,object_id,error_type,reviewer,note
+img_003.jpg,,bo_sot,claude_ai,"Xe đạp người phụ nữ #7 đang dắt (khoảng x 548-582, y 245-320) không có box bicycle"
+img_003.jpg,,bo_sot,claude_ai,"Người áo caro đứng sau cột xe đẩy (khoảng x 445-475, y 210-300) không có box person"
+img_006.jpg,71,thua,claude_ai,"Box #71 thừa: bao chung bé áo tím (đã có #66) và bé áo xanh (đã có #56); soi kỹ vùng này chỉ có 2 người"
+img_008.jpg,83,thua,claude_ai,"#83 trùng với #81 (cùng người phụ nữ đội mũ chấm bi; #81 là box cả người, #83 chỉ nửa trên)"
+img_014.jpg,,khong,claude_ai,
+img_017.jpg,,khong,claude_ai,
+img_018.jpg,,bo_sot,claude_ai,"Xe máy của người #148 (x 525-541, y 395-428) không có box motorbike"
+img_018.jpg,,bo_sot,claude_ai,"Xe máy của người #140 (x 542-560, y 415-447) không có box motorbike"
+img_018.jpg,,bo_sot,claude_ai,"Người + xe máy x 552-565, y 377-407 không có box nào (ghi 1 dòng cho cả cặp)"
+img_018.jpg,,bo_sot,claude_ai,"Người + xe máy x 597-609, y 377-405 không có box nào"
+img_018.jpg,,bo_sot,claude_ai,"Người + xe máy x 737-757, y 392-422 không có box nào"
+img_018.jpg,,bo_sot,claude_ai,"Người áo tím + xe máy x 777-792, y 412-445 không có box nào"
+img_018.jpg,,bo_sot,claude_ai,"Người đi xe máy x 790-805, y 385-412 không có box"
+img_018.jpg,,bo_sot,claude_ai,"Người áo đỏ dắt xe đạp sau #151 (x 695-720, y 497-555): thiếu person và bicycle"
+img_018.jpg,,bo_sot,claude_ai,"Xe máy đỏ đỗ bên phải (x 945-990, y 502-540) không có box"
+img_021.jpg,,bo_sot,claude_ai,"Người lái mũ be giữa #192 và #189 (x khoảng 554-580, y 330-400) không có box person"
+img_021.jpg,,bo_sot,claude_ai,"Người lái mũ xanh dương giữa #189 và #187 (x khoảng 697-717, y 328-395) không có box person"
+img_035.jpg,,bo_sot,claude_ai,"Người áo xanh ngồi sau người đi bộ #404 (x khoảng 415-440, y 485-560) không có box person"
+img_035.jpg,,bo_sot,claude_ai,"Người áo xám ngồi giữa #410 và #396 (x khoảng 525-552, y 485-555) không có box person"
+img_035.jpg,,bo_sot,claude_ai,"Xe tay ga đen đỗ sau lưng #410 (x khoảng 495-545, y 505-565) không có box motorbike"
