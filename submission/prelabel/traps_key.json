@@ -1,0 +1,177 @@
+{
+ "student": "2A202604055",
+ "seed": 0,
+ "traps": [
+  {
+   "image": "img_027.jpg",
+   "type": "extra",
+   "fake_box": [
+    731.77,
+    405.39,
+    71.21,
+    83.71
+   ],
+   "fake_cls": "motorbike",
+   "id": 592,
+   "ann_id": 424
+  },
+  {
+   "image": "img_022.jpg",
+   "type": "loose",
+   "orig_box": [
+    175.85,
+    251.76,
+    46.18,
+    55.77
+   ],
+   "bad_box": [
+    166.9,
+    261.7,
+    54.33,
+    49.81
+   ],
+   "cls": "person",
+   "id": 310,
+   "ann_id": 310
+  },
+  {
+   "image": "img_034.jpg",
+   "type": "wrong_class",
+   "box": [
+    444.25,
+    384.68,
+    28.75,
+    49.97
+   ],
+   "orig_cls": "person",
+   "fake_cls": "bicycle",
+   "id": 519,
+   "ann_id": 518
+  },
+  {
+   "image": "img_023.jpg",
+   "type": "missing",
+   "orig_box": [
+    680.64,
+    237.92,
+    87.64,
+    225.79
+   ],
+   "orig_cls": "person"
+  },
+  {
+   "image": "img_028.jpg",
+   "type": "wrong_class",
+   "box": [
+    45.14,
+    359.02,
+    39.9,
+    68.8
+   ],
+   "orig_cls": "person",
+   "fake_cls": "bicycle",
+   "id": 450,
+   "ann_id": 450
+  },
+  {
+   "image": "img_033.jpg",
+   "type": "missing",
+   "orig_box": [
+    925.83,
+    394.32,
+    74.56,
+    135.11
+   ],
+   "orig_cls": "person"
+  },
+  {
+   "image": "img_031.jpg",
+   "type": "loose",
+   "orig_box": [
+    229.15,
+    124.82,
+    59.84,
+    46.23
+   ],
+   "bad_box": [
+    236.63,
+    115.83,
+    58.97,
+    51.63
+   ],
+   "cls": "person",
+   "id": 494,
+   "ann_id": 494
+  },
+  {
+   "image": "img_035.jpg",
+   "type": "extra",
+   "fake_box": [
+    656.11,
+    155.52,
+    152.03,
+    175.42
+   ],
+   "fake_cls": "car",
+   "id": 593,
+   "ann_id": 569
+  },
+  {
+   "image": "img_003.jpg",
+   "type": "wrong_class",
+   "box": [
+    246.06,
+    192.93,
+    19.74,
+    60.36
+   ],
+   "orig_cls": "person",
+   "fake_cls": "bicycle",
+   "id": 37,
+   "ann_id": 37
+  },
+  {
+   "image": "img_021.jpg",
+   "type": "loose",
+   "orig_box": [
+    918.43,
+    328.12,
+    72.6,
+    191.4
+   ],
+   "bad_box": [
+    931.56,
+    365.52,
+    59.33,
+    168.96
+   ],
+   "cls": "person",
+   "id": 273,
+   "ann_id": 273
+  },
+  {
+   "image": "img_010.jpg",
+   "type": "missing",
+   "orig_box": [
+    90.51,
+    246.78,
+    234.08,
+    480.87
+   ],
+   "orig_cls": "person"
+  },
+  {
+   "image": "img_014.jpg",
+   "type": "extra",
+   "fake_box": [
+    36.56,
+    271.08,
+    98.61,
+    139.32
+   ],
+   "fake_cls": "person",
+   "id": 594,
+   "ann_id": 191
+  }
+ ]
+}

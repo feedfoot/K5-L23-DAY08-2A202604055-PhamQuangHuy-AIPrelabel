@@ -1,2 +1,3 @@
-step,images,minutes,note
+﻿step,images,minutes,note
 gold_manual,4,15,"gán tay 4 ảnh gold bằng CVAT, không dùng AI"
+batch_review,24,194,"duyệt 24 ảnh có pre-label + bẫy trên CVAT; ước lượng từ mốc thời gian (tạo task 19:41 → export lần đầu 22:55), gồm cả lúc nghỉ và hỏi AI"
